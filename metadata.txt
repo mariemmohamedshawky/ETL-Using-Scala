@@ -1,0 +1,3 @@
+id,int,pos/plus1000,append
+name,string,anon/capitalize,append
+age,int,pos,append

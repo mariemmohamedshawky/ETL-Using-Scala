@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ETLScala:jar">
+    <output-path>$PROJECT_DIR$/../ETLScala_jar</output-path>
+    <root id="archive" name="ETLScala.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/project/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ETLScala" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.7/scala-library-2.13.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
